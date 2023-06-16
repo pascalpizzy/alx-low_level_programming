@@ -3,8 +3,7 @@
 /**
  * main - the main serves as the entry point
  *
- * return: this will return 0 if the execution is successful
- * description: this script prints a statement using puts
+ * Return: this will return 0 if the execution is successful
  */
 int main(void)
 {
