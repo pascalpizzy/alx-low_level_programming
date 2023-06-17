@@ -11,12 +11,13 @@ int main(void)
 
 	for(ch = 'a'; ch <= 'z; ch++)
 	{
-		printf("%c ", c);
+		putchar("%c ", c);
 	}
 
 	for(ch = 'A'; ch <= 'Z'; ch++)
 	{
-		printf("%c ", c);
+		putchar("%c ", c);
 	}
+	putchar('\n');
 	return (0);
 }
